@@ -1,5 +1,7 @@
 # OpenAI GPT Chatbot
 
+![Descriptive Alt Text](images/myimage.png)
+
 An interactive conversational AI built with Streamlit and OpenAI's GPT models. This project implements a responsive chat interface with customizable parameters for controlling response generation.
 
 ## Features
